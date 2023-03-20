@@ -33,7 +33,7 @@ objects:
         type: "ImageChange"
     source: 
       git:
-        uri: "https://github.com/tsrana/spring-boot-hello-world"
+        uri: "https://github.com/alousta/spring-boot-hello-world"
     strategy:
       type: Docker
       dockerStrategy:
